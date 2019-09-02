@@ -1,6 +1,7 @@
 # ssms
 
 > A Vue.js project
+> vue全家桶+element-ui
 
 ## Build Setup
 
