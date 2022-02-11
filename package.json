@@ -12,7 +12,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "ajv": "^6.6.2",
+    "ajv": "^6.12.3",
     "axios": "^0.18.0",
     "element-ui": "^2.4.11",
     "font-awesome": "^4.7.0",
